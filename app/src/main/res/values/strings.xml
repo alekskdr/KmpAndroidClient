@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KmpClient</string>
+    <string name="title_activity_main">Pult</string>
+    <string name="server_host">192.168.0.1</string>
+</resources>
